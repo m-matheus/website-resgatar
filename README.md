@@ -1,4 +1,4 @@
-# site-resgatar
+# Website Resgatar
 
 [PT-BR]
 Site criado em um projeto da faculdade e posteriormente doado para uma ONG.
