@@ -1,2 +1,8 @@
 # site-resgatar
-site criado para avaliação da materia de programacao para internet no if de gravatai (1 sem)
+:flag_brazil:
+🇧🇷
+Site criado em um projeto da faculdade e posteriormente doado para uma ONG.
+
+:flag_united_states:
+🇺🇸
+Website created in a college project and donated to an ONG.
